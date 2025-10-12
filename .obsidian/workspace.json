@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM PRIVATE/NPC/Nils.md",
+                "file": "Bienvenue - La Fantastique Académie Stella Wachter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nils"
+              "title": "Bienvenue - La Fantastique Académie Stella Wachter"
             }
           }
         ],
@@ -197,14 +197,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "386abbf4ee8ad2a9",
+  "active": "7877dbb833ef336a",
   "lastOpenFiles": [
+    "DM PRIVATE/Locations/SWAN",
+    "README.md",
+    "DM PRIVATE/NPC/Nils.md",
     "DM PRIVATE/NPC/Lestun Vallakovich.md",
     "DM PRIVATE/NPC/Manza Rouria.md",
     "DM PRIVATE/NPC/Martin Babedon.md",
     "DM PRIVATE/NPC/Morton Babedon.md",
     "DM PRIVATE/NPC/Nemi Kuatsu.md",
-    "DM PRIVATE/NPC/Nils.md",
     "DM PRIVATE/NPC/Père Darus Canon.md",
     "DM PRIVATE/NPC/Sorin.md",
     "DM PRIVATE/NPC/Steve Laforge.md",
@@ -223,8 +225,6 @@
     "DM PRIVATE/NPC/Eve Laforge.md",
     "DM PRIVATE/NPC/Florian Petitpas.md",
     "DM PRIVATE/NPC/Esteban Lavue.md",
-    "DM PRIVATE/NPC/Directeur.md",
-    "DM PRIVATE/NPC/Decebal.md",
     "Lore/Géographie",
     "DM PRIVATE/Locations",
     "DM PRIVATE/Quests/1ère Année/Foire des Premières Années",

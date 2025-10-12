@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "083413481d078897",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3a7709552c85d93",
+        "type": "tabs",
+        "dimension": 61.40939597315436,
+        "children": [
+          {
+            "id": "f82846ac843cd6cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM PRIVATE/NPC/Vincent Duysel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vincent Duysel"
+            }
+          },
+          {
+            "id": "386abbf4ee8ad2a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM PRIVATE/NPC/Nils.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nils"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "fe2b957c1bd1f46e",
+        "type": "tabs",
+        "dimension": 38.59060402684564,
+        "children": [
+          {
+            "id": "2c1974ac1d7bcc5b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10417ac1d6dec81d",
+    "type": "split",
+    "children": [
+      {
+        "id": "965330776afe4da9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7877dbb833ef336a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b1699cc520c974e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#loup-garou",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d5b2621354917957",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "23d1a4f1abd751b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8056260485c155e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbbd59c622e1ff14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DM PRIVATE/Quests/1ère Année/Foire des Premières Années/Foire des Premières Années.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Foire des Premières Années"
+            }
+          },
+          {
+            "id": "4075f6e8cbfef5a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DM PRIVATE/Quests/1ère Année/Foire des Premières Années/Foire des Premières Années.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Foire des Premières Années"
+            }
+          },
+          {
+            "id": "b36e1f26f7c67e7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "67ac50c8ce9e3948",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DM PRIVATE/Quests/1ère Année/Foire des Premières Années/Foire des Premières Années.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Foire des Premières Années"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "386abbf4ee8ad2a9",
+  "lastOpenFiles": [
+    "DM PRIVATE/NPC/Lestun Vallakovich.md",
+    "DM PRIVATE/NPC/Manza Rouria.md",
+    "DM PRIVATE/NPC/Martin Babedon.md",
+    "DM PRIVATE/NPC/Morton Babedon.md",
+    "DM PRIVATE/NPC/Nemi Kuatsu.md",
+    "DM PRIVATE/NPC/Nils.md",
+    "DM PRIVATE/NPC/Père Darus Canon.md",
+    "DM PRIVATE/NPC/Sorin.md",
+    "DM PRIVATE/NPC/Steve Laforge.md",
+    "DM PRIVATE/NPC/Strahd.md",
+    "DM PRIVATE/NPC/Ulysse Grogson.md",
+    "DM PRIVATE/NPC/Vincent Duysel.md",
+    "DM PRIVATE/NPC/Tsiara.md",
+    "DM PRIVATE/NPC/Viktor Vallakovich.md",
+    "DM PRIVATE/NPC/Meutes de l'Ouest.md",
+    "DM PRIVATE/NPC/Marie Loup Alpha.md",
+    "DM PRIVATE/NPC/Maaxmar Chat.md",
+    "DM PRIVATE/NPC/Jessica Loup Alpha.md",
+    "DM PRIVATE/NPC/Jess Hume.md",
+    "DM PRIVATE/NPC/Jaquot McDemoz.md",
+    "DM PRIVATE/NPC/Jacob McDemoz.md",
+    "DM PRIVATE/NPC/Eve Laforge.md",
+    "DM PRIVATE/NPC/Florian Petitpas.md",
+    "DM PRIVATE/NPC/Esteban Lavue.md",
+    "DM PRIVATE/NPC/Directeur.md",
+    "DM PRIVATE/NPC/Decebal.md",
+    "Lore/Géographie",
+    "DM PRIVATE/Locations",
+    "DM PRIVATE/Quests/1ère Année/Foire des Premières Années",
+    "DM PRIVATE/Quests/Misc Quests",
+    "DM PRIVATE/Quests/4ème Année",
+    "DM PRIVATE/Quests/3ème Année",
+    "DM PRIVATE/Quests/2ème Année",
+    "DM PRIVATE/Quests/1ère Année",
+    "DM PRIVATE/Quests",
+    "DM PRIVATE/NPC"
+  ]
+}

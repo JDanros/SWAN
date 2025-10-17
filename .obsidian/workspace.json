@@ -13,18 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM PRIVATE/NPC/Eve Laforge.md",
+                "file": "Bienvenue - La Fantastique Académie Stella Wachter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eve Laforge"
+              "title": "Bienvenue - La Fantastique Académie Stella Wachter"
             }
           }
         ]
       },
       {
-        "id": "85cd918c641beffd",
+        "id": "ef18fdf615150e9f",
         "type": "tabs",
         "children": [
           {
@@ -167,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "Bienvenue - La Fantastique Académie Stella Wachter.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -202,8 +204,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50f97f2a0a4b2e3d",
+  "active": "5c5a8759b2bb05cd",
   "lastOpenFiles": [
+    "DM PRIVATE/Locations/MAP-Bar-tmp.wxx",
+    "DM PRIVATE/Locations/MAP-Barovie-auto-tmp.wxx",
+    "DM PRIVATE/Locations/MAP-Barovie-autosave",
+    "DM PRIVATE/Locations/MAP-Barovie",
+    "README.md",
+    "DM PRIVATE/NPC/Lestun Vallakovich.md",
+    "DM PRIVATE/NPC/Jacob McDemoz.md",
     "DM PRIVATE/NPC/Eve Laforge.md",
     "DM PRIVATE/Locations/SWAN/SWAN.md",
     "DM PRIVATE/NPC/Manza Rouria.md",
@@ -211,7 +220,6 @@
     "DM PRIVATE/NPC/Strahd.md",
     "DM PRIVATE/NPC/Tsiara.md",
     "DM PRIVATE/NPC/Ulysse Grogson.md",
-    "DM PRIVATE/NPC/Jacob McDemoz.md",
     "DM PRIVATE/Locations/SWAN/Bibliothèque.md",
     "DM PRIVATE/NPC/Blanche.md",
     "DM PRIVATE/NPC/Martin Babedon.md",
@@ -227,18 +235,12 @@
     "DM PRIVATE/NPC/Florian Petitpas.md",
     "DM PRIVATE/Locations/Téléphérique.md",
     "DM PRIVATE/Locations/Mar'Miche.md",
-    "DM PRIVATE/Locations/Krezk-la-Marine.md",
-    "DM PRIVATE/NPC/Vincent Duysel.md",
-    "Bienvenue - La Fantastique Académie Stella Wachter.md",
     "Untitled.base",
     "JASUSpull.sh",
     "JASUSpush.sh",
     "gitpull.sh",
     "Untitled Document",
     "push.txt",
-    "gitpush.sh",
-    "DM PRIVATE/Locations/SWAN",
-    "Lore/Géographie",
-    "DM PRIVATE/Locations"
+    "gitpush.sh"
   ]
 }

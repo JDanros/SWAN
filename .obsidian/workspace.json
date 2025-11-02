@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM PRIVATE/NPC/Jaquot McDemoz.md",
+                "file": "DM PRIVATE/NPC/Jessica Loup Alpha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jaquot McDemoz"
+              "title": "Jessica Loup Alpha"
             }
           }
         ]
@@ -204,8 +204,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "62cf9a660c5d9d4e",
+  "active": "50f97f2a0a4b2e3d",
   "lastOpenFiles": [
+    "DM PRIVATE/NPC/Sorin.md",
+    "DM PRIVATE/NPC/Stella Wachter.md",
+    "DM PRIVATE/NPC/Bastien Petitpas.md",
+    "DM PRIVATE/NPC/Jessica Loup Alpha.md",
+    "Lore/Histoire/Timeline.md",
+    "Lore/Factions/Chevaliers du Crépuscule.md",
+    "Lore/Factions",
+    "Lore/Lore.md",
+    "Lore/Histoire",
+    "Lore/Biômes/Landes.md",
+    "Lore/Biômes",
+    "DM PRIVATE/NPC/Jaquot McDemoz.md",
     "DM PRIVATE/NPC/Coach Chad.md",
     "Bienvenue - La Fantastique Académie Stella Wachter.md",
     "DM PRIVATE/Locations/MAP-Barovie-auto-tmp.wxx",
@@ -218,7 +230,6 @@
     "DM PRIVATE/NPC/Eve Laforge.md",
     "DM PRIVATE/Locations/SWAN/SWAN.md",
     "DM PRIVATE/NPC/Manza Rouria.md",
-    "DM PRIVATE/NPC/Sorin.md",
     "DM PRIVATE/NPC/Strahd.md",
     "DM PRIVATE/NPC/Tsiara.md",
     "DM PRIVATE/NPC/Ulysse Grogson.md",
@@ -228,19 +239,8 @@
     "DM PRIVATE/NPC/Directeur.md",
     "Lore/Religion/Parfumerie.md",
     "DM PRIVATE/NPC/Maaxmar Chat.md",
-    "Asso.md",
-    "Lore/Religion/Orthodoxie d'Helitelios.md",
-    "DM PRIVATE/NPC/Jaquot McDemoz.md",
-    "DM PRIVATE/NPC/Esteban Lavue.md",
-    "DM PRIVATE/NPC/Jess Hume.md",
-    "DM PRIVATE/NPC/Jessica Loup Alpha.md",
-    "DM PRIVATE/NPC/Florian Petitpas.md",
-    "DM PRIVATE/Locations/Téléphérique.md",
     "Untitled.base",
     "JASUSpull.sh",
-    "JASUSpush.sh",
-    "gitpull.sh",
-    "Untitled Document",
-    "push.txt"
+    "JASUSpush.sh"
   ]
 }

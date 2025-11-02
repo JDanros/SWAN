@@ -13,22 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM PRIVATE/NPC/Jessica Loup Alpha.md",
+                "file": "Lore/Histoire/Timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jessica Loup Alpha"
+              "title": "Timeline"
             }
           }
         ]
       },
       {
-        "id": "ef18fdf615150e9f",
+        "id": "c3eb82c798e61807",
         "type": "tabs",
         "children": [
           {
-            "id": "50f97f2a0a4b2e3d",
+            "id": "5eb90c79db47bbec",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -204,20 +204,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "50f97f2a0a4b2e3d",
+  "active": "62cf9a660c5d9d4e",
   "lastOpenFiles": [
+    "Lore/Factions/Chevaliers du Crépuscule.md",
+    "Lore/Histoire/Timeline.md",
+    "Lore/Religion/Orthodoxie d'Helitelios.md",
+    "Lore/Religion/Monastère St-Sithis.md",
+    "DM PRIVATE/NPC/Jessica Loup Alpha.md",
+    "DM PRIVATE/NPC/Nils.md",
+    "DM PRIVATE/NPC/Morton Babedon.md",
+    "DM PRIVATE/NPC/Lestun Vallakovich.md",
+    "DM PRIVATE/NPC/Blanche.md",
+    "DM PRIVATE/NPC/Decebal.md",
+    "DM PRIVATE/NPC/Florian Petitpas.md",
+    "DM PRIVATE/NPC/Jaquot McDemoz.md",
     "DM PRIVATE/NPC/Sorin.md",
     "DM PRIVATE/NPC/Stella Wachter.md",
     "DM PRIVATE/NPC/Bastien Petitpas.md",
-    "DM PRIVATE/NPC/Jessica Loup Alpha.md",
-    "Lore/Histoire/Timeline.md",
-    "Lore/Factions/Chevaliers du Crépuscule.md",
     "Lore/Factions",
     "Lore/Lore.md",
     "Lore/Histoire",
     "Lore/Biômes/Landes.md",
     "Lore/Biômes",
-    "DM PRIVATE/NPC/Jaquot McDemoz.md",
     "DM PRIVATE/NPC/Coach Chad.md",
     "Bienvenue - La Fantastique Académie Stella Wachter.md",
     "DM PRIVATE/Locations/MAP-Barovie-auto-tmp.wxx",
@@ -225,20 +233,12 @@
     "DM PRIVATE/Locations/MAP-Barovie-autosave",
     "DM PRIVATE/Locations/MAP-Barovie",
     "README.md",
-    "DM PRIVATE/NPC/Lestun Vallakovich.md",
     "DM PRIVATE/NPC/Jacob McDemoz.md",
     "DM PRIVATE/NPC/Eve Laforge.md",
     "DM PRIVATE/Locations/SWAN/SWAN.md",
     "DM PRIVATE/NPC/Manza Rouria.md",
     "DM PRIVATE/NPC/Strahd.md",
     "DM PRIVATE/NPC/Tsiara.md",
-    "DM PRIVATE/NPC/Ulysse Grogson.md",
-    "DM PRIVATE/Locations/SWAN/Bibliothèque.md",
-    "DM PRIVATE/NPC/Blanche.md",
-    "DM PRIVATE/NPC/Martin Babedon.md",
-    "DM PRIVATE/NPC/Directeur.md",
-    "Lore/Religion/Parfumerie.md",
-    "DM PRIVATE/NPC/Maaxmar Chat.md",
     "Untitled.base",
     "JASUSpull.sh",
     "JASUSpush.sh"

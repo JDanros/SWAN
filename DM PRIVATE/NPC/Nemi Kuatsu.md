@@ -2,7 +2,7 @@
 
 Majeure : [[Arcaniste]]
 
-Fille adoptive d'[[Ambre]]
+Fille adoptive d'[[DM PRIVATE/NPC/Ambre]]
 
 Très jeune, mourrant de la même maladie qui avait tué ses parents, elle fut sauvée par Ambre qui mit son âme dans un automate d'ambre ("ils m'ont sauvé, je leur ai rendu la pareille"). 
 
